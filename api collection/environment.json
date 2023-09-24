@@ -1,0 +1,27 @@
+{
+	"id": "a16b67da-190b-4b00-a95c-911777449071",
+	"name": "5200",
+	"values": [
+		{
+			"key": "URL",
+			"value": "http://localhost:5200",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "TOKEN",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "URL_DEV",
+			"value": "https://test-server-nu-ivory.vercel.app",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-09-24T03:37:22.023Z",
+	"_postman_exported_using": "Postman/10.18.5"
+}
